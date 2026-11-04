@@ -15,3 +15,12 @@
 !/lab1/results/petri_False.png
 !/lab1/results/petri_True.png
 ./skills
+
+!/practical2/
+/practical2/*
+!/practical2/bench.py
+!/practical2/minimum.c
+!/practical2/draw_petri.py
+!/practical2/petri.png
+!/practical2/seconds.png
+!/practical2/speed.png
