@@ -1,0 +1,17 @@
+# Keep only MPI sources, benchmark tooling, and Petri diagrams in Git.
+/*
+!/.gitignore
+!/lab1/
+
+/lab1/*
+!/lab1/main.c
+!/lab1/benchmark.c
+!/lab1/Makefile
+!/lab1/run.py
+!/lab1/draw_petri.py
+!/lab1/results/
+
+/lab1/results/*
+!/lab1/results/petri_False.png
+!/lab1/results/petri_True.png
+./skills
