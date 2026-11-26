@@ -25,6 +25,19 @@
 !/practical2/seconds.png
 !/practical2/speed.png
 
+!/lab3/
+/lab3/*
+!/lab3/README.md
+!/lab3/main.c
+!/lab3/benchmark.c
+!/lab3/Makefile
+!/lab3/bench.py
+!/lab3/draw_petri.py
+!/lab3/results/
+/lab3/results/*
+!/lab3/results/petri-*.png
+!/lab3/results/time.png
+!/lab3/results/speedup.png
 !/lab4/
 /lab4/*
 !/lab4/main.c
