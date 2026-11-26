@@ -38,3 +38,8 @@
 !/lab3/results/petri-*.png
 !/lab3/results/time.png
 !/lab3/results/speedup.png
+!/lab4/
+/lab4/*
+!/lab4/main.c
+!/lab4/benchmark.c
+!/lab4/draw_petri.py
